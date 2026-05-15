@@ -52,4 +52,4 @@ Dados sintéticos gerados com NumPy e pandas simulando 12 meses de operação co
 
 [▶ Abrir dashboard interativo](dashboard_vendas.html)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard-vendas.ipynb - Colab.png)
