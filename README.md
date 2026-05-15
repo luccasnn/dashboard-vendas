@@ -50,6 +50,7 @@ Dados sintéticos gerados com NumPy e pandas simulando 12 meses de operação co
 
 > A imagem abaixo é apenas ilustrativa. Para acessar o dashboard completo com todas as funcionalidades interativas, clique no botão abaixo.
 
-[▶ Abrir dashboard interativo](dashboard_vendas.html)
 
-![Dashboard Preview](dashboard-vendas.ipynb%20-%20Colab.html)
+[▶ Download do dashboard interativo](dashboard_vendas.html)
+
+![Dashboard Preview](dashboard_preview.png)
